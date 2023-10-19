@@ -15,3 +15,8 @@ If the exercise is written in TypeScript, you can run it using ts-node:
 ```bash
 $ ts-node [file-name].ts
 ```
+
+## Concepts applied
+
+- Loops: `for`, `while`, `for of`
+- Array methods: `every`
